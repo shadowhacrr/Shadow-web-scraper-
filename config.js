@@ -5,7 +5,7 @@ module.exports = {
   // Developer Info - AAP YAHAN APNI INFO DALEN
   DEVELOPER: {
     name: "Shadow",
-    title: "Full Stack Developer & Bot Creator",
+    title: "Full Stack Developer & cyber hacrr",
     bio: "Passionate developer creating powerful tools and automation solutions.",
     social: {
       telegram: "https://t.me/shadowhacrrr",
