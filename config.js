@@ -38,7 +38,7 @@ module.exports = {
   DEFAULT_OWNERS: ["8627624927"],  // <-- APNI TELEGRAM CHAT ID YAHAN DALEN
 
   // Bot Token - Railway pe BOT_TOKEN environment variable se bhi le sakta hai
-  BOT_TOKEN: process.env.BOT_TOKEN || "YOUR_BOT_TOKEN_HERE",
+  BOT_TOKEN: process.env.BOT_TOKEN || "8175499403:AAFMNWZJfsdUd8fkWgiREEazR4GAp-UnkN4",
 
   // Server
   PORT: process.env.PORT || 3000,
