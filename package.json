@@ -1,0 +1,27 @@
+{
+  "name": "web-scraper-by-shadow",
+  "version": "1.0.0",
+  "description": "Web Scraper by Shadow - Telegram Bot for scraping websites",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "telegram-bot",
+    "web-scraper",
+    "shadow"
+  ],
+  "author": "Shadow",
+  "license": "MIT",
+  "dependencies": {
+    "adm-zip": "^0.5.10",
+    "axios": "^1.6.2",
+    "cheerio": "^1.0.0-rc.12",
+    "express": "^4.18.2",
+    "fs-extra": "^11.2.0",
+    "node-telegram-bot-api": "^0.65.1"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
